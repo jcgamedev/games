@@ -30,5 +30,5 @@ TOOLS
 Deadlines
 ----------
 *David -> Implement class hierarchy and modify character attributes and behaviors -> Feb. 15
-*James ->
+*James -> Have Walk Animation by Sunday
 *Brandon ->
