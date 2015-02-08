@@ -31,4 +31,4 @@ Deadlines
 ----------
 *David -> Implement class hierarchy and modify character attributes and behaviors -> Feb. 15
 *James -> Have Walk Animation by Sunday
-*Brandon ->
+*Brandon -> Tower design and model
