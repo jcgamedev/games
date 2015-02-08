@@ -27,3 +27,8 @@ TOOLS
 *Unity engine --> http://unity3d.com/
 
 
+Deadlines
+----------
+*David -> Implement class hierarchy and modify character attributes and behaviors -> Feb. 15
+*James ->
+*Brandon ->
