@@ -1,19 +1,29 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{11081B0C-E75B-0E63-5708-443850BEF902}") = "Castle", "Assembly-CSharp.csproj", "{FF8CFA1A-CF68-FF29-007B-D9D109F88175}"
+EndProject
+Project("{11081B0C-E75B-0E63-5708-443850BEF902}") = "Castle", "Assembly-CSharp-Editor.csproj", "{D2EE8EB9-0A0C-8AA9-FF6C-C849BC96288D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{FF8CFA1A-CF68-FF29-007B-D9D109F88175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8CFA1A-CF68-FF29-007B-D9D109F88175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8CFA1A-CF68-FF29-007B-D9D109F88175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8CFA1A-CF68-FF29-007B-D9D109F88175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2EE8EB9-0A0C-8AA9-FF6C-C849BC96288D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2EE8EB9-0A0C-8AA9-FF6C-C849BC96288D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2EE8EB9-0A0C-8AA9-FF6C-C849BC96288D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2EE8EB9-0A0C-8AA9-FF6C-C849BC96288D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-					GlobalSection(MonoDevelopProperties) = preSolution
+									GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
