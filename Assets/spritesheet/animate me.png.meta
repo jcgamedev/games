@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 348040eec6afac041bd39161b4f42c1b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: animate me_0
+    21300002: animate me_1
+    21300004: animate me_2
+    21300006: animate me_3
+    21300008: animate me_4
+    21300010: animate me_5
+    21300012: animate me_6
+    21300014: animate me_7
+    21300016: animate me_8
+    21300018: animate me_9
+    21300020: animate me_10
+    21300022: animate me_11
+    21300024: animate me_12
+    21300026: animate me_13
+    21300028: animate me_14
+    21300030: animate me_15
+    21300032: animate me_16
+    21300034: animate me_17
+    21300036: animate me_18
+    21300038: animate me_19
+    21300040: animate me_20
+    21300042: animate me_21
+    21300044: animate me_22
+    21300046: animate me_23
+    21300048: animate me_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: animate me_0
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 3733
+        width: 168
+        height: 228
+      alignment: 9
+      pivot: {x: .430000007, y: .469999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_1
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 3335
+        width: 172
+        height: 266
+      alignment: 9
+      pivot: {x: .540058911, y: .258241117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2737
+        width: 142
+        height: 390
+      alignment: 9
+      pivot: {x: .500000238, y: .870350063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_3
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 2851
+        width: 232
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_4
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 2775
+        width: 140
+        height: 388
+      alignment: 9
+      pivot: {x: .529904604, y: .866864085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_5
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 3059
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3023
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_7
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 2893
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_8
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2855
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_9
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 2731
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2133
+        width: 150
+        height: 384
+      alignment: 9
+      pivot: {x: .336538285, y: .788102448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_11
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 2395
+        width: 176
+        height: 284
+      alignment: 9
+      pivot: {x: .484465152, y: .72143209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_12
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2267
+        width: 149
+        height: 382
+      alignment: 9
+      pivot: {x: .332212299, y: .783598721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1817
+        width: 118
+        height: 132
+      alignment: 9
+      pivot: {x: .413700163, y: .834303439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_14
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1927
+        width: 154
+        height: 245
+      alignment: 9
+      pivot: {x: .5, y: .729102552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_15
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1893
+        width: 117
+        height: 132
+      alignment: 9
+      pivot: {x: .400000006, y: .810000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_16
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1822
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_17
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1369
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_18
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1344
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_19
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 567
+        width: 160
+        height: 576
+      alignment: 9
+      pivot: {x: .699047446, y: .821378291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_20
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 535
+        width: 160
+        height: 574
+      alignment: 9
+      pivot: {x: .705062091, y: .820097506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_21
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 215
+        width: 246
+        height: 130
+      alignment: 9
+      pivot: {x: .227709025, y: .769896746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_22
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 327
+        width: 244
+        height: 130
+      alignment: 9
+      pivot: {x: .234979346, y: .792601585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_23
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1247
+        width: 236
+        height: 529
+      alignment: 9
+      pivot: {x: .5, y: .792399466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animate me_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1217
+        width: 209
+        height: 539
+      alignment: 9
+      pivot: {x: .481023043, y: .786974847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
