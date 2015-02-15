@@ -5,14 +5,14 @@ namespace UnitySampleAssets._2D
 {
 
     [RequireComponent(typeof (PlayerCharacter))]
-    public class Platformer2DUserControl : MonoBehaviour
+    public class PlayerUserControl : MonoBehaviour
     {
         private PlayerCharacter character;
         private bool jump;
 
         private void Awake()
         {
-            character = GetComponent<PlatformerCharacter2D>();
+            character = GetComponent<PlayerCharacter>();
         }
 
         private void Update()

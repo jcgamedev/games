@@ -3,12 +3,12 @@
 namespace UnitySampleAssets._2D
 {
 
-    public class PlatformerCharacter2D : MonoBehaviour
+    public class PlayerCharacter : MonoBehaviour
     {
 
-		private double const = 10.00;
-		private double agl = 10.00;
-		private double atk = 10.00;
+		[SerializeField] private float constit = 10f;
+		[SerializeField] private float agl = 10f;
+		[SerializeField] private float atk = 10f;
 
 
         private bool facingRight = true; // For determining which way the player is currently facing.
