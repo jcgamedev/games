@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\PlayerCharacter.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\PlayerUserControl.cs">
     <Files>
-      <File FileName="Assets\scripts\PlayerCharacter.cs" Line="11" Column="20" />
-      <File FileName="Assets\scripts\PlayerUserControl.cs" Line="15" Column="53" />
+      <File FileName="Assets\scripts\PlayerCharacter.cs" Line="11" Column="26" />
+      <File FileName="Assets\scripts\PlayerUserControl.cs" Line="35" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

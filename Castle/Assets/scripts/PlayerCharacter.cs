@@ -6,9 +6,9 @@ namespace UnitySampleAssets._2D
     public class PlayerCharacter : MonoBehaviour
     {
 
-		[SerializeField] private float constit = 10f;
-		[SerializeField] private float agl = 10f;
-		[SerializeField] private float atk = 10f;
+		[SerializeField] public float constit = 10f;
+		[SerializeField] public float agl = 10f;
+		[SerializeField] public float atk = 10f;
 
 
         private bool facingRight = true; // For determining which way the player is currently facing.
