@@ -31,6 +31,5 @@ namespace UnitySampleAssets._2D
             character.Move(h, crouch, jump);
             jump = false;
         }
-		
     }
 }
